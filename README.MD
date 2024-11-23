@@ -17,6 +17,7 @@ O sistema utiliza dados reais da pesquisa Origem-Destino de São Paulo para trei
 ## **Metodologia**
 1. **Coleta e Preparação de Dados**:
    - Dataset: Origem-Destino São Paulo 2017.
+   link: https://www.kaggle.com/datasets/rodrigoberto/origindestination-sao-paulo/data?select=od_2017.csv
    - Colunas Selecionadas: 
      - `ZONA`: Zona do domicílio.
      - `MUNI_DOM`: Município do domicílio.
@@ -49,6 +50,7 @@ O sistema utiliza dados reais da pesquisa Origem-Destino de São Paulo para trei
 2. **Saída**: Previsão binária:
    - `1`: Alta necessidade de bikes/patinetes.
    - `0`: Baixa necessidade.
+3. O dataset utilizado se chama "od_2017.csv"
 
 ---
 
